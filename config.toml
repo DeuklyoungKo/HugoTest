@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'ko-KR'
+title = '나의 첫 Hugo Site'
+theme = 'ananke'
