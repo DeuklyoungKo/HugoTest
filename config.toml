@@ -1,4 +1,4 @@
-baseURL = 'hhttps://deuklyoungko.github.io/HugoTestWeb/'
+baseURL = 'HugoTestWeb'
 languageCode = 'ko-KR'
 title = '나의 첫 Hugo Site'
 theme = 'ananke'
