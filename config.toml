@@ -2,3 +2,4 @@ baseURL = 'hhttps://deuklyoungko.github.io/HugoTestWeb/'
 languageCode = 'ko-KR'
 title = '나의 첫 Hugo Site'
 theme = 'ananke'
+canonifyURLs = false
